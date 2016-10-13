@@ -1,0 +1,24 @@
+{
+  "name": "cliapp.js",
+  "version": "1.0.0",
+  "description": "Aplicação em linha de comando usando Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tykoth/cliapp.js.git"
+  },
+  "keywords": [
+    "cli",
+    "app",
+    "js"
+  ],
+  "author": "Thiago Bocchile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tykoth/cliapp.js/issues"
+  },
+  "homepage": "https://github.com/tykoth/cliapp.js#readme"
+}
